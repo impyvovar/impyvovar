@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<img src="https://i.pinimg.com/736x/66/39/9f/66399f287fda8b20144a2ecf36ddf6ab.jpg" width="25%" align="right" />
   
 I've gotten interested in trying programming during the latter years of high-school, and finally, it was following a DAE (Synchrony Skills Academy) program that I professionally began to delve within the specific sphere of Software Development I found to be most interesting - game development. As of today, I'm a full-time college student and beyond all lecture basics, am hence spending a lot of my free time learning C++, practicing 2D art on Krita, and 3D animation within Blender 4.2. <br/>
 
