@@ -1,8 +1,7 @@
 <!-- README Title Section -->
 # ☀️ Kira "Sunny" Pyvovar | impyvovar
  
-I've gotten into programming during the latter two years of high-school, and it was following a DAE (Synchrony Skills Academy) program that I professionally began to delve within a sphere of Software Development I found to be interesting - game development. 
-As of right now, I'm a full-time college student and am spending a lot of my free time learning C++, practicing 2D art on Krita, and 3D animation within Blender 4.2. <br/>
+I've gotten interested in trying programming during the latter years of high-school, and it was following a DAE (Synchrony Skills Academy) program that I finally, professionally began to delve within a specific sphere of Software Development I found to be most interesting - game development. As of today, I'm a full-time college student and beyond all lecture basics, am spending a lot of my free time learning C++, practicing 2D art on Krita, and 3D animation within Blender 4.2. <br/>
 
 ### 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kira-pyvovar-7987b9266) 
