@@ -16,7 +16,7 @@ I've gotten interested in trying programming during the latter years of high-sch
   <!-- README GitHub Stats -->
   ##
  
-  ![](https://github-readme-stats.vercel.app/api?username=impyvovar&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)  <img src="https://i.pinimg.com/736x/31/4f/82/314f826ffcb1478fe25a29c80924ff13.jpg" width="23%"/> <br/>
+  ![](https://github-readme-stats.vercel.app/api?username=impyvovar&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)  <img src="https://i.pinimg.com/736x/31/4f/82/314f826ffcb1478fe25a29c80924ff13.jpg" width="23.2%"/> <br/>
   
   <!-- README Howard Stark Quote -->
   ##
