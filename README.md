@@ -26,8 +26,15 @@ I've gotten interested in trying programming during the latter years of high-sch
   ##
   
   <!-- README Socials -->
+  
   ### 🌐 Socials: 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kira-pyvovar-7987b9266) 
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sunny_the_nerd) <br/>
   [![](https://visitcount.itsvg.in/api?id=impyvovar&icon=0&color=2)](https://visitcount.itsvg.in)
+
+ <br>
+ <img src="https://i.imgur.com/evffp1M.png" height="100" />
+ 
+ ##
+  
 </div>
