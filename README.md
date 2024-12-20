@@ -2,10 +2,6 @@
 # ☀️ Kira "Sunny" Pyvovar | impyvovar
 
 <div align = "center">  
-    <div>
-        <br>
-        <img src="https://i.pinimg.com/736x/66/39/9f/66399f287fda8b20144a2ecf36ddf6ab.jpg" width="27%" align="right" />
-    </div>
 I've gotten interested in trying programming during the latter years of high-school, and finally, it was following a DAE (Synchrony Skills Academy) program that I professionally began to delve within the specific sphere of Software Development I found to be most interesting - game development. As of today, I'm a full-time college student and beyond all lecture basics, am hence spending a lot of my free time learning C++, practicing 2D art on Krita, and 3D animation within Blender 4.2. 
   
   <!-- README Note -->
@@ -19,7 +15,8 @@ I've gotten interested in trying programming during the latter years of high-sch
   
   <!-- README GitHub Stats -->
   ##
-  ![](https://github-readme-stats.vercel.app/api?username=impyvovar&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+ 
+  ![](https://github-readme-stats.vercel.app/api?username=impyvovar&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)  <img src="https://i.pinimg.com/736x/31/4f/82/314f826ffcb1478fe25a29c80924ff13.jpg" width="20%"/> <br/>
   
   <!-- README Howard Stark Quote -->
   ##
